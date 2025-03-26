@@ -8,6 +8,7 @@ datasets/ → Contains raw and cleaned datasets used for analysis.
 queries/ → SQL scripts used for data cleaning and analysis.
 📊 Key Insights
 Find the total quantity sold for each product in the past 30 days
+
 Find the most frequent product ordered by each customer
 Get the number of orders placed before and after a specific date
 Find the percentage of orders in each status
